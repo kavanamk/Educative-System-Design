@@ -1,0 +1,10 @@
+
+Learn about system design interviews (SDIs) and how to strategically approach them.
+
+A System Design interview is a technical evaluation of a candidate’s ability to build robust and scalable systems. Unlike coding interviews, which typically involve a single solution, System Design interviews are open to discussion and involve multiple possible solutions that can be re-iterated.
+
+For many software engineers, System Design Interview questions remain a mysterious challenge. Most engineers have never actually worked on large-scale systems before, so explaining how to build one seems daunting. Since System Design interview questions are often open-ended, it can be difficult to know the best way to prepare.
+
+However, as someone who has participated in hundreds of System Design interviews, I can assure you there is a correct way to approach these questions. With the right mindset and preparation, you can feel confident and ready to tackle any System Design question that comes your way.
+
+It is important to note that System Design questions not only test the technical knowledge of the candidate but also their ability to approach a problem, think critically, and make trade-offs. Therefore, preparing for a System Design interview is not only about understanding the technical details but also about understanding the problem, breaking it down, and finding the most optimal solution.
